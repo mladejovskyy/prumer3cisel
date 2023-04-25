@@ -1,0 +1,9 @@
+X:\PRG\prumer\prumer\bin\Debug\prumer.exe.config
+X:\PRG\prumer\prumer\bin\Debug\prumer.exe
+X:\PRG\prumer\prumer\bin\Debug\prumer.pdb
+X:\PRG\prumer\prumer\obj\Debug\prumer.Form1.resources
+X:\PRG\prumer\prumer\obj\Debug\prumer.Properties.Resources.resources
+X:\PRG\prumer\prumer\obj\Debug\prumer.csproj.GenerateResource.cache
+X:\PRG\prumer\prumer\obj\Debug\prumer.csproj.CoreCompileInputs.cache
+X:\PRG\prumer\prumer\obj\Debug\prumer.exe
+X:\PRG\prumer\prumer\obj\Debug\prumer.pdb
